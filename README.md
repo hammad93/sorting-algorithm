@@ -14,6 +14,7 @@ structures and relies on integer values denoted as `key`s.
 Method :
 Given a set of unique integers, we create a `key` value with a value from the 
 following methodolgy:
+
     1 - Sum every value in the set by 2^i where i is the value in the set, denote
     this value as `key`
     
