@@ -1,4 +1,5 @@
 # sorting-algorithm
+## `This is novel research with unknown impact. Please contact Hammad Usmani before distributing.`
 Non comparison sorting algorithm with time complexity O(n) utilizing elementary data structures
 This sorting algorithm has the following time constraints. Proof is left to the 
 reader
