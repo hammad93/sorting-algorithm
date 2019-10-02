@@ -12,3 +12,6 @@ def keySort(array):
         value = math.floor(math.log(key, 2))
         sort.append(value) # highest value in array
         key -= 2 ** value
+    
+    # return sorted array
+    return sort
