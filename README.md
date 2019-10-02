@@ -1,5 +1,4 @@
 # sorting-algorithm
-## `This is novel research with unknown impact. Please contact Hammad Usmani before distributing.`
 Non comparison sorting algorithm with time complexity O(n) utilizing elementary data structures
 This sorting algorithm has the following time constraints. Proof is left to the 
 reader
@@ -50,3 +49,5 @@ To show proper testing and performance, these two benchmarks will be performed:
 1 ) LARGE INPUT CASE: The unsorted set of integers between 1 and 1000 of size 100
 2 ) DUPLICATE INTEGER CASE: The unsorted array of integers between 1 and 1000 of
     size 50 with maximum duplicate amount of 3
+    
+_This is novel research with unknown impact. Please contact Hammad Usmani before distributing._
