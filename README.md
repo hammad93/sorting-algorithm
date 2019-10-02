@@ -31,7 +31,7 @@ terms of applied computer science during the beginning of the 21st century. With
 the restrictions given above, this set of integers: {1002, 45, 5607, 13} will 
 need an integer value of almost 2^6000. The tradeoff we are gaining is potentially the
 fastest sorting algorithm possible with new applications in combinatorics and
-number theory. If we make let go of the simple restriction of unique integers,
+number theory. If we let go of the simple restriction of unique integers,
 the space complexity is O(d^n) where d is the max number of repeated integers. 
 Because of the current hardware limitations, the algorithm must be compared with
 compatible hardware. The following sorting algorithms will be used for performance
